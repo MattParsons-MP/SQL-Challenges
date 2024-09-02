@@ -3,7 +3,7 @@
     The CITY table is described as follows:
 
     id:          number
-    dame:        varchar2(17)
+    name:        varchar2(17)
     countrycode: varchar2(3)
     district:    varchar2(20)
     population:  number
