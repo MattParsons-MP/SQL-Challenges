@@ -9,7 +9,7 @@ Tables:
             PC
 
     code:          int
-    model:         varchar2(50)
+    model:         varchar(50)
     speed:         smallint
     ram:           smallint
     hd:            real
